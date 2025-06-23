@@ -22,7 +22,7 @@ MIDDLEWARE = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    'https://render-deploy-tutorial-reactjs-code.onrender.com'
+    'https://invoice-frontend-sft3.onrender.com'
 ]
 
 STORAGES = {
