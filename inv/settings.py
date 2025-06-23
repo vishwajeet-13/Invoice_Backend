@@ -63,6 +63,8 @@ MIDDLEWARE = [
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
+     'https://invoice-frontend-sft3.onrender.com',
+     'https://invoice-backend-846x.onrender.com'
 ]
 
 SITE_ID = 1 
